@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+html {
+    font-family: 'Black Ops One', cursive;
+}
+body {
+    background-color: cadetblue;
+}
+header,
+footer {
+    background-color: bisque;
+    color: cornflowerblue; 
+}
+section {
+    width: 80%;
+    border-radius: 10px;
+    background-color: cornflowerblue;
+    color: bisque;
+}
