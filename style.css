@@ -17,6 +17,7 @@ footer {
     color: cornflowerblue; 
 }
 section {
+    text-align: center;
     width: 80%;
     margin: 20px auto;
     border-radius: 10px;
